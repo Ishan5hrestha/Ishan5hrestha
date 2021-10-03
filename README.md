@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ishan5hrestha](github.com/ishan5hrestha)
 
-- 📝 I regularly write articles on [ishans.com.np](ishans.com.np)
+- 📝 I regularly write articles on [www.ishans.com.np](www.ishans.com.np)
 
 - 📫 How to reach me **ishanshrestha@gmail.com**
 
