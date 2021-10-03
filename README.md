@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Image detection using Haar Cascade**
 
-- 👨‍💻 All of my projects are available at [github.com/ishan5hrestha](github.com/ishan5hrestha)
+- 👨‍💻 All of my projects are available at [ishan5hrestha](ishan5hrestha)
 
-- 📝 I regularly write articles on [www.ishans.com.np](www.ishans.com.np)
+- 📝 I regularly write articles on [https://ishans.com.np/](https://ishans.com.np/)
 
 - 📫 How to reach me **ishanshrestha@gmail.com**
 
-- 📄 Know about my experiences [ishans.com.np/resume](ishans.com.np/resume)
+- 📄 Know about my experiences [https://ishans.com.np/](https://ishans.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
