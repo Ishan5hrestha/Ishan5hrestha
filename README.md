@@ -11,13 +11,14 @@
 
 - 📫 How to reach me **ishanshrestha@gmail.com**
 
-- 📄 Know about my experiences [https://ishans.com.np/](https://ishans.com.np/)
+- 📄 View some of my 3D Art [https://www.artstation.com/mutton](https://www.artstation.com/mutton)
+
+- 📄 Play some of my Games [https://300.itch.io/](https://300.itch.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ishan-shrestha-8693b2172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-shrestha-8693b2172" height="30" width="40" /></a>
 <a href="https://fb.com/ishan27041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishan27041" height="30" width="40" /></a>
-<a href="https://instagram.com/ishan__shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishan__shrestha" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCEFAWlLFBNcNIm3OTgi8h6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucefawllfbncnim3otgi8h6w" height="30" width="40" /></a>
 </p>
 
