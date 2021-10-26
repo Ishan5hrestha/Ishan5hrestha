@@ -1,1 +1,0 @@
-call cmd /k "title Slave && python renew.py && git init && git pull origin main && git add -A && git commit -a -m "served master" && git remote add origin https://github.com/Ishan5hrestha/Ishan5hrestha.git || git remote set-url origin https://github.com/Ishan5hrestha/Ishan5hrestha.git && git push origin main && exit" 
