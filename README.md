@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishan5hrestha&show_icons=true&locale=en&theme=radical" alt="ishan5hrestha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan5hrestha&" alt="ishan5hrestha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan5hrestha&theme=radical" alt="ishan5hrestha" /></p>
 
