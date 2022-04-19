@@ -1,9 +1,26 @@
-<h1 align="center">Welcome 👋, I'm Ishan</h1>
-<h3 align="center">A passionate Game developer and machine learning enthusiast</h3>
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan5hrestha&label=Profile%20views&color=0e75b6&style=flat" alt="ishan5hrestha" /> </p> -->
 
-- 🔭 I’m currently learning **Unreal Engine 5**
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <div id="badges">
+      <a href="https://www.linkedin.com/in/ishanshrestha/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://www.youtube.com/channel/UCEFAWlLFBNcNIm3OTgi8h6w">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      </a>
+    </div>
+<!--   profile view -->
+<!--   <img src="https://komarev.com/ghpvc/?username=ishan5hrestha&style=flat-square&color=blue" alt=""/> -->
+<h1>
+  Welcome 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
+  I'm Ishan
+</h1>
+<h3>
+  A passionate Game developer and machine learning enthusiast
+</h3>
+</div>
+ 🔭 I’m currently learning **Unreal Engine 5**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Ishan5hrestha?tab=repositories)
 
