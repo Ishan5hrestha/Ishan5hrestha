@@ -20,7 +20,7 @@
   A passionate Game developer and machine learning enthusiast
 </h3>
 </div>
- 🔭 I’m currently learning **Unreal Engine 5**
+ 🔭 I’m currently learning <b>Unreal Engine 5</b>
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Ishan5hrestha?tab=repositories)
 
@@ -28,9 +28,9 @@
 
 - 📫 Mail me at **ishanshrestha@gmail.com**
 
-- 📄 View some of my 3D Models [https://www.artstation.com/mutton](https://www.artstation.com/mutton)
+- 📄 View some of my 3D Models at [ArtStation](https://www.artstation.com/mutton)
 
-- 📄 Try some of my games [https://300.itch.io/](https://300.itch.io/)
+- 📄 Try some of my games at [itch.io](https://300.itch.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
