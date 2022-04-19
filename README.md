@@ -54,6 +54,7 @@
 <img src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg" title="GMS" alt="GMS" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" title="GIMP" alt="GIMP" width="40" height="40"/>&nbsp;
+<img src="https://progsoft.net/images/materialize--by-bounding-box-software-icon-a12e1c3599d4868024ac588b9bbb5668a7b591b9.png" title="Materialize" alt="Materialize" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="Premier" alt="Premier" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 
@@ -62,6 +63,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tesnorflow"  alt="Tensorflow" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://opencv.org/wp-content/uploads/2022/04/logo.png" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
 
 </div>
 
