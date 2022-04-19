@@ -33,32 +33,36 @@
 - 📄 Try some of my games at [itch.io](https://300.itch.io/)
 
 
-### 🛠️: Languages and Tools :
+### 🛠️ Professionally :
 <div>
 <!--     Languages -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++ " width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" title="Haxe" alt="Haxe" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tesnorflow"  alt="Tensorflow" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <!--     Databases -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/480/microsoft-sql-server.png" title="TSQL"  alt="TSQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-plain.svg" title="SVN" alt="SVN" width="40" height="40"/>&nbsp;
  
+### ⚒️ Game Dev :
 <img src="https://img.icons8.com/color/344/unreal-engine.png" title="Unreal" alt="Unreal" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/7/7a/GameMaker_Studio_2.svg" title="GMS" alt="GMS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++ " width="40" height="40"/>&nbsp;
+<img src="https://armory3d.org/img/Logo.png" title="Armory3D" alt="Armory3D" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" title="Haxe" alt="Haxe" width="40" height="40"/>&nbsp;
+<img src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg" title="GMS" alt="GMS" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" title="GIMP" alt="GIMP" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="Premier" alt="Premier" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-plain.svg" title="SVN" alt="SVN" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+### ⚒️ ML Learning and Automation :
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tesnorflow"  alt="Tensorflow" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+
 </div>
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
