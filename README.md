@@ -20,19 +20,19 @@
   A passionate Game developer and machine learning enthusiast
 </h3>
 </div>
- 🔭 I’m currently learning <b>Unreal Engine 5</b>
+ 📑 I’m currently learning <b>Unreal Engine 5.</b> Armory3D is nice and has potential but not for some serious development.
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Ishan5hrestha?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/Ishan5hrestha?tab=repositories)
 
-- 📝 Visit my website on [here](https://ishans.com.np/)
+- 🏠 Check out my website [here](https://ishans.com.np/)
 
-- 📫 Mail me at **ishanshrestha@gmail.com**
+- 📫 Hit me up at **ishanshrestha@gmail.com**
 
-- 📄 View some of my 3D Models at [ArtStation](https://www.artstation.com/mutton)
+- 📄 Leave feedbacks on my 3D Models at [ArtStation](https://www.artstation.com/mutton)
 
-- 📄 Try some of my games at [itch.io](https://300.itch.io/)
+- 🎮 Play some games at [itch.io](https://300.itch.io/)
 
-
+## 🧰 My Tools :
 ### 🛠️ Professionally :
 <div>
 <!--     Languages -->
@@ -40,10 +40,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
-<!--     Databases -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/480/microsoft-sql-server.png" title="TSQL"  alt="TSQL" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-plain.svg" title="SVN" alt="SVN" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
  
 ### ⚒️ Game Dev :
 <img src="https://img.icons8.com/color/344/unreal-engine.png" title="Unreal" alt="Unreal" width="40" height="40"/>&nbsp;
@@ -74,5 +74,5 @@
 <!-- stars dekhaune -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishan5hrestha&show_icons=true&locale=en&theme=radical" alt="ishan5hrestha" /></p> -->
 <!-- streak dekhaune -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan5hrestha&theme=radical" alt="ishan5hrestha" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan5hrestha&theme=radical" alt="ishan5hrestha" /></p>
 
