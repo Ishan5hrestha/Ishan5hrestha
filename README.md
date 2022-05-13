@@ -23,7 +23,7 @@
   A passionate Game developer and machine learning enthusiast
 </h3>
 </div>
- 📑 I’m currently learning <b>Unreal Engine 5.</b> Armory3D is nice and has potential but not for some serious development.
+ 📑 I’m currently learning <b>Godot Engine.</b> Armory3D is nice and has potential but let's dive into 2D now.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Ishan5hrestha?tab=repositories)
 
@@ -49,15 +49,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
  
 ### 🎮 Game Dev :
-<img src="https://img.icons8.com/color/344/unreal-engine.png" title="Unreal" alt="Unreal" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++ " width="40" height="40"/>&nbsp;
 <img src="https://armory3d.org/img/Logo.png" title="Armory3D" alt="Armory3D" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" title="Haxe" alt="Haxe" width="40" height="40"/>&nbsp;
 <img src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg" title="GMS" alt="GMS" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" title="GIMP" alt="GIMP" width="40" height="40"/>&nbsp;
-<img src="https://progsoft.net/images/materialize--by-bounding-box-software-icon-a12e1c3599d4868024ac588b9bbb5668a7b591b9.png" title="Materialize" alt="Materialize" width="40" height="40"/>&nbsp;
-<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_e60381ee2fbedaf78b97d58552121473/makehuman.png" title="MakeHuman" alt="MakeHuman" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="Premier" alt="Premier" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 
